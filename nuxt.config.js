@@ -50,9 +50,5 @@ export default {
         }
       }
     }
-  },
-  
-  build: {
-    publicPath: process.env.PUBLIC_PATH 
   }
 }
